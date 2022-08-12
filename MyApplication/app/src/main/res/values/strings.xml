@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name1">  本周榜 | 更新时间于7月1日 12:00</string>
+    <string name="text_name2">榜单规则</string>
+    <string name="button_name1">电影榜单</string>
+    <string name="button_name2">电视剧榜单</string>
+    <string name="button_name3">综艺榜单</string>
+</resources>
